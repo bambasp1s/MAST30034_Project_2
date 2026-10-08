@@ -1,2 +1,5 @@
 # Generated curated datasets
 data/curated/
+# Local environment / OS files
+.venv/
+.DS_Store
