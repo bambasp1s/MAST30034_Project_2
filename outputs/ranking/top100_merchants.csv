@@ -1,0 +1,101 @@
+rank,segment_rank,merchant_abn,name,segment,industry,expected_profit_12w,expected_revenue_12w,expected_fraud_cost_12w,forecast_sales_12w,take_rate,fraud_share_adjusted_model,robustness,customers_last_12w,repeat_customer_share_26w
+1,1,45629217853,Lacus Consulting,Fashion & Lifestyle,"gift, card, novelty, and souvenir shops",90000.14,91750.24,1405.51,1314473.34,0.0698,0.00107,core,18891.0,0.86475
+2,1,48534649627,Dignissim Maecenas Foundation,"Arts, Media & Services","opticians, optical goods, and eyeglasses",85370.43,87525.05,1679.93,1318148.42,0.0664,0.00127,core,8681.0,0.39199
+3,2,32361057556,Orci In Consequat Corporation,Fashion & Lifestyle,"gift, card, novelty, and souvenir shops",84906.05,87129.61,1743.3,1318148.42,0.0661,0.00132,core,10554.0,0.47967
+4,3,86578477987,Leo In Consulting,Fashion & Lifestyle,"watch, clock, and jewelry repair shops",83046.87,84756.94,1299.16,1318148.42,0.0643,0.00099,core,20303.0,0.91511
+5,4,49322182190,Gravida Mauris Incorporated,Fashion & Lifestyle,"watch, clock, and jewelry repair shops",81538.97,83676.78,1694.4,1317744.62,0.0635,0.00129,core,7177.0,0.31467
+6,2,64403598239,Lobortis Ultrices Company,"Arts, Media & Services","music shops - musical instruments, pianos, and sheet music",81182.71,83149.69,1473.8,1317744.62,0.0631,0.00112,core,12923.0,0.5886
+7,1,21439773999,Mauris Non Institute,Electronics & Digital,"cable, satellite, and other pay television and radio services",77799.99,80382.42,2141.88,1317744.62,0.061,0.00163,core,13341.0,0.61263
+8,1,89726005175,Est Nunc Consulting,Automotive & Outdoor,tent and awning shops,77214.07,79196.45,1578.39,1317744.62,0.0601,0.0012,core,18484.0,0.84493
+9,,63123845164,Odio Phasellus Institute,Other,artist supply and craft shops,75472.86,86233.89,9992.3,1308556.78,0.0659,0.00764,core,1811.0,0.07552
+10,2,49891706470,Non Vestibulum Industries,Automotive & Outdoor,tent and awning shops,74504.9,76216.1,1436.68,1314070.67,0.058,0.00109,core,19581.0,0.88869
+11,2,72472909171,Nullam Consulting,Electronics & Digital,"digital goods: books, movies, music",74281.1,75861.22,1259.72,1198439.55,0.0633,0.00105,core,11977.0,0.54491
+12,3,45433476494,Adipiscing Elit Foundation,Electronics & Digital,"computers, computer peripheral equipment, and software",74058.94,76134.67,1539.43,1308155.92,0.0582,0.00118,core,2483.0,0.1127
+13,3,96680767841,Ornare Limited,Automotive & Outdoor,motor vehicle supplies and new parts,70902.83,77878.71,6497.29,1317744.62,0.0591,0.00493,core,4544.0,0.19581
+14,,67978471888,Magna Malesuada Corp.,Other,artist supply and craft shops,70651.88,73266.6,2076.82,1317744.62,0.0556,0.00158,core,1885.0,0.07858
+15,,40515428545,Elit Sed Consequat Associates,Other,artist supply and craft shops,69545.91,77615.16,7407.47,1317744.62,0.0589,0.00562,core,2025.0,0.08785
+16,4,94690988633,Eu Placerat LLC,Electronics & Digital,"computers, computer peripheral equipment, and software",69032.98,71464.47,2068.61,1160137.55,0.0616,0.00178,core,4569.0,0.20366
+17,5,94493496784,Dictum Phasellus In Institute,Fashion & Lifestyle,"gift, card, novelty, and souvenir shops",68297.5,74452.57,5779.05,1317744.62,0.0565,0.00439,core,11747.0,0.53839
+18,5,58454491168,Diam At Foundation,Electronics & Digital,"computer programming , data processing, and integrated systems design services",67768.24,69529.87,1442.22,1156903.02,0.0601,0.00125,core,3935.0,0.1773
+19,4,13514558491,Magna Praesent PC,Automotive & Outdoor,motor vehicle supplies and new parts,67676.68,69691.87,1506.4,1027903.76,0.0678,0.00147,core,2668.0,0.10715
+20,6,98973094975,Ornare Fusce Inc.,Fashion & Lifestyle,"hobby, toy and game shops",67456.51,69182.8,1393.01,1156903.02,0.0598,0.0012,core,7458.0,0.32739
+21,7,79417999332,Phasellus At Company,Fashion & Lifestyle,"gift, card, novelty, and souvenir shops",63293.22,65228.36,1635.55,1317744.62,0.0495,0.00124,core,11749.0,0.53591
+22,6,49505931725,Suspendisse Ac Associates,Electronics & Digital,"digital goods: books, movies, music",60172.99,61934.0,1496.73,1317744.62,0.047,0.00114,core,8797.0,0.39668
+23,7,67400260923,Eleifend PC,Electronics & Digital,"computer programming , data processing, and integrated systems design services",60151.36,61707.68,1263.83,1033629.53,0.0597,0.00122,core,5260.0,0.2382
+24,8,60956456424,Ultricies Dignissim LLP,Fashion & Lifestyle,"gift, card, novelty, and souvenir shops",60092.64,61629.91,1281.53,1314070.67,0.0469,0.00098,core,10894.0,0.50576
+25,,57757792876,Pretium Et LLC,Other,"stationery, office supplies and printing and writing paper",59743.39,64155.61,3866.55,1160137.55,0.0553,0.00333,core,1626.0,0.07203
+26,3,34179569263,Sodales At LLC,"Arts, Media & Services","music shops - musical instruments, pianos, and sheet music",57508.31,62197.55,4352.8,1317744.62,0.0472,0.0033,core,3429.0,0.14844
+27,9,43186523025,Lorem Ipsum Sodales Industries,Fashion & Lifestyle,"florists supplies, nursery stock, and flowers",57302.54,58903.18,1300.42,1317744.62,0.0447,0.00099,core,17795.0,0.82334
+28,10,49212265466,Auctor Company,Fashion & Lifestyle,"florists supplies, nursery stock, and flowers",57181.26,59133.18,1703.78,1314070.67,0.045,0.0013,core,5206.0,0.22987
+29,11,21772962346,Purus Gravida Sagittis Ltd,Fashion & Lifestyle,"florists supplies, nursery stock, and flowers",56637.63,57887.93,913.04,873121.13,0.0663,0.00105,core,4876.0,0.22408
+30,8,35909341340,Arcu Sed Eu Incorporated,Electronics & Digital,"computer programming , data processing, and integrated systems design services",56147.97,63251.74,6686.71,1317744.62,0.048,0.00507,core,5418.0,0.24378
+31,1,42355028515,Eu Inc.,Home & Living,"lawn and garden supply outlets, including nurseries",55772.08,57074.47,1003.68,956021.27,0.0597,0.00105,core,4928.0,0.22621
+32,9,76767266140,Phasellus At Limited,Electronics & Digital,"furniture, home furnishings and equipment shops, and manufacturers, except appliances",54551.83,61275.12,6344.34,1317744.62,0.0465,0.00481,core,6225.0,0.27106
+33,4,27326652377,Tellus Aenean Corporation,"Arts, Media & Services","music shops - musical instruments, pianos, and sheet music",53800.94,73793.58,19266.41,1165775.37,0.0633,0.01653,core,1046.0,0.04676
+34,5,68559320474,Aliquam Auctor Associates,"Arts, Media & Services","antique shops - sales, repairs, and restoration services",53350.94,55345.27,1725.21,1317744.62,0.042,0.00131,core,5221.0,0.23125
+35,6,35223308778,Euismod In Corp.,"Arts, Media & Services","books, periodicals, and newspapers",53270.15,55213.5,1672.9,1317744.62,0.0419,0.00127,core,6247.0,0.27432
+36,5,49549583265,Luctus Et Incorporated,Automotive & Outdoor,tent and awning shops,52161.19,66011.83,13237.42,1160137.55,0.0569,0.01141,core,1575.0,0.07216
+37,12,76314317957,Semper Corp.,Fashion & Lifestyle,"florists supplies, nursery stock, and flowers",49878.92,51362.5,1158.96,866146.71,0.0593,0.00134,core,4866.0,0.21314
+38,,63290521567,Vehicula Pellentesque Corporation,Other,artist supply and craft shops,49690.17,50782.79,856.67,783685.04,0.0648,0.00109,core,17054.0,0.78206
+39,13,81219314324,Faucibus Leo Ltd,Fashion & Lifestyle,"gift, card, novelty, and souvenir shops",48227.71,49320.13,828.88,776694.89,0.0635,0.00107,core,7013.0,0.31092
+40,7,71759376949,Pharetra Corp.,"Arts, Media & Services","music shops - musical instruments, pianos, and sheet music",47648.67,54806.66,6707.47,868568.33,0.0631,0.00772,core,1133.0,0.05867
+41,14,11439466003,Blandit At LLC,Fashion & Lifestyle,shoe shops,47504.15,49167.94,1294.13,861084.83,0.0571,0.0015,core,4433.0,0.18719
+42,8,99291944648,Rutrum Magna Cras LLC,"Arts, Media & Services","books, periodicals, and newspapers",45920.23,49151.87,2922.65,1317744.62,0.0373,0.00222,core,2315.0,0.10703
+43,,98072939449,Mattis Velit Justo Ltd,Other,artist supply and craft shops,44011.31,48536.01,4032.24,704441.41,0.0689,0.00572,core,968.0,0.03804
+44,9,95574756848,At Pede Inc.,"Arts, Media & Services","opticians, optical goods, and eyeglasses",42115.41,43593.3,1200.35,708834.19,0.0615,0.00169,core,1763.0,0.08003
+45,10,38090089066,Interdum Feugiat Sed Inc.,Electronics & Digital,"furniture, home furnishings and equipment shops, and manufacturers, except appliances",40804.12,42694.93,1620.5,1317744.62,0.0324,0.00123,core,7065.0,0.31886
+46,11,77590625261,Sed Diam Foundation,Electronics & Digital,"computer programming , data processing, and integrated systems design services",40610.1,42384.25,1512.17,1308155.92,0.0324,0.00116,core,3773.0,0.16103
+47,6,21359184622,Sit Amet PC,Automotive & Outdoor,motor vehicle supplies and new parts,39844.46,41764.95,1693.16,1160137.55,0.036,0.00146,core,3151.0,0.14136
+48,12,34096466752,Nullam Enim Ltd,Electronics & Digital,"computers, computer peripheral equipment, and software",38878.94,42122.62,2932.9,1308155.92,0.0322,0.00224,core,2783.0,0.12061
+49,7,22033359776,Suspendisse Non Leo PC,Automotive & Outdoor,motor vehicle supplies and new parts,38587.76,40552.83,1699.18,1308155.92,0.031,0.0013,core,3569.0,0.14616
+50,13,80518954462,Neque Sed Dictum Incorporated,Electronics & Digital,"computers, computer peripheral equipment, and software",37723.56,45989.29,7997.33,1317744.62,0.0349,0.00607,core,4357.0,0.19015
+51,15,24852446429,Erat Vitae LLP,Fashion & Lifestyle,"florists supplies, nursery stock, and flowers",37190.88,38741.69,1375.6,1317744.62,0.0294,0.00104,core,20627.0,0.92553
+52,16,81761494572,Nulla Facilisis Institute,Fashion & Lifestyle,"watch, clock, and jewelry repair shops",37033.82,37861.27,654.68,555150.56,0.0682,0.00118,core,3848.0,0.17297
+53,14,77338620996,Fames Ac Turpis LLC,Electronics & Digital,"computers, computer peripheral equipment, and software",36685.13,39774.33,2788.73,1107920.13,0.0359,0.00252,core,1896.0,0.08298
+54,17,93558142492,Dolor Quisque Inc.,Fashion & Lifestyle,shoe shops,36527.47,44935.09,8133.11,1317744.62,0.0341,0.00617,core,3314.0,0.13854
+55,8,64203420245,Pede Nonummy Corp.,Automotive & Outdoor,tent and awning shops,36015.05,37582.42,1425.4,1314070.67,0.0286,0.00108,core,19842.0,0.90267
+56,18,62224020443,Hendrerit A Corporation,Fashion & Lifestyle,"watch, clock, and jewelry repair shops",35902.05,36862.0,756.23,555150.56,0.0664,0.00136,core,2961.0,0.12994
+57,19,99976658299,Sociosqu Corp.,Fashion & Lifestyle,shoe shops,35649.61,36473.39,603.2,555150.56,0.0657,0.00109,core,3416.0,0.15398
+58,10,26169574842,Dolor Dolor Industries,"Arts, Media & Services","books, periodicals, and newspapers",35350.48,36528.91,938.38,555150.56,0.0658,0.00169,core,1516.0,0.06846
+59,9,70033549200,Mus Proin LLP,Automotive & Outdoor,tent and awning shops,35124.7,49391.08,13863.93,1033286.21,0.0478,0.01342,core,1322.0,0.05317
+60,10,22227727512,Malesuada Integer Id Foundation,Automotive & Outdoor,motor vehicle supplies and new parts,34331.22,35654.36,1112.46,708834.19,0.0503,0.00157,core,2439.0,0.11083
+61,20,88699453206,Sed Nec Inc.,Fashion & Lifestyle,health and beauty spas,34277.42,36589.14,2085.22,1036519.41,0.0353,0.00201,core,1772.0,0.07694
+62,15,68216911708,Placerat Eget Venenatis Limited,Electronics & Digital,"computers, computer peripheral equipment, and software",34128.76,35457.02,1196.73,1162525.12,0.0305,0.00103,core,16875.0,0.77507
+63,11,46804135891,Suspendisse Dui Corporation,"Arts, Media & Services","opticians, optical goods, and eyeglasses",33948.13,35383.57,1268.88,1207630.44,0.0293,0.00105,core,19044.0,0.86633
+64,11,52594457116,Vel Turpis Aliquam Company,Automotive & Outdoor,bicycle shops - sales and service,33739.01,43288.51,9128.52,785635.37,0.0551,0.01162,core,1251.0,0.05118
+65,16,90543168331,Phasellus Dapibus Incorporated,Electronics & Digital,"furniture, home furnishings and equipment shops, and manufacturers, except appliances",33403.46,35315.56,1694.16,1317744.62,0.0268,0.00129,core,5023.0,0.2243
+66,17,17488304283,Posuere Cubilia Curae Corporation,Electronics & Digital,"cable, satellite, and other pay television and radio services",33295.02,34297.79,798.74,554980.49,0.0618,0.00144,core,4879.0,0.21398
+67,12,38700038932,Etiam Bibendum Industries,Automotive & Outdoor,tent and awning shops,32845.13,83149.69,49537.16,1317744.62,0.0631,0.03759,core,1114.0,0.0464
+68,,32709545238,Tempor Est Foundation,Other,"stationery, office supplies and printing and writing paper",32825.74,40059.44,6884.74,1317744.62,0.0304,0.00522,core,1952.0,0.08282
+69,12,46012371285,A Ultricies Inc.,"Arts, Media & Services","books, periodicals, and newspapers",32683.93,34295.79,1300.73,704225.61,0.0487,0.00185,core,1343.0,0.06252
+70,21,23338656015,Iaculis LLC,Fashion & Lifestyle,"watch, clock, and jewelry repair shops",32190.5,33592.96,1247.97,1033629.53,0.0325,0.00121,core,5637.0,0.24687
+71,,27093785141,Placerat Orci Institute,Other,"stationery, office supplies and printing and writing paper",32026.73,35974.43,3696.05,1317744.62,0.0273,0.0028,core,3747.0,0.16828
+72,13,76819856970,Egestas Blandit Ltd,Automotive & Outdoor,tent and awning shops,31159.0,42036.05,10594.14,1317744.62,0.0319,0.00804,core,2522.0,0.10814
+73,13,25732256442,Malesuada Vel Associates,"Arts, Media & Services","books, periodicals, and newspapers",31129.44,32133.37,801.9,554980.49,0.0579,0.00144,likely,2183.0,0.08791
+74,14,90568944804,Diam Eu Dolor LLC,Automotive & Outdoor,tent and awning shops,29603.3,54027.53,24021.37,1317744.62,0.041,0.01823,likely,1708.0,0.07845
+75,22,88358066529,Pede Cras Vulputate Consulting,Fashion & Lifestyle,health and beauty spas,29523.92,30219.99,452.7,487419.16,0.062,0.00093,likely,815.0,0.03025
+76,2,29639699851,Sodales Elit Erat Corporation,Home & Living,"lawn and garden supply outlets, including nurseries",29205.73,30267.55,793.24,487400.13,0.0621,0.00163,likely,1491.0,0.06042
+77,18,94455880010,Nunc Sit LLC,Electronics & Digital,"computer programming , data processing, and integrated systems design services",27366.83,27993.22,440.12,442230.89,0.0633,0.001,likely,3910.0,0.17312
+78,,61080648284,Lobortis Ultrices LLC,Other,artist supply and craft shops,26725.27,28753.82,1746.94,442366.4,0.065,0.00395,likely,617.0,0.03061
+79,14,46298404088,Feugiat Sed Nec Institute,"Arts, Media & Services","books, periodicals, and newspapers",26574.42,27241.42,536.93,442230.89,0.0616,0.00121,likely,5794.0,0.25988
+80,15,80551528183,Ac Ipsum LLC,Automotive & Outdoor,tent and awning shops,25169.67,62423.89,36521.06,1297794.02,0.0481,0.02814,likely,1310.0,0.05997
+81,19,41271931352,Ac Sem Ut Company,Electronics & Digital,"computers, computer peripheral equipment, and software",24244.24,26028.59,1575.74,554980.49,0.0469,0.00284,likely,1265.0,0.05473
+82,3,90173050473,Lobortis Class Industries,Home & Living,"lawn and garden supply outlets, including nurseries",24243.55,25744.85,1315.42,1033929.66,0.0249,0.00127,likely,3781.0,0.16579
+83,20,98269572896,Eget Laoreet Posuere PC,Electronics & Digital,"furniture, home furnishings and equipment shops, and manufacturers, except appliances",24207.98,25227.9,891.39,702726.95,0.0359,0.00127,likely,6284.0,0.28626
+84,21,52959528548,Libero Et Limited,Electronics & Digital,"furniture, home furnishings and equipment shops, and manufacturers, except appliances",24004.08,25564.25,1421.16,1317744.62,0.0194,0.00108,likely,6096.0,0.26509
+85,,57699602880,Tellus Id Institute,Other,"stationery, office supplies and printing and writing paper",23942.9,26129.87,1854.25,438420.67,0.0596,0.00423,likely,580.0,0.02246
+86,23,29616684420,Tellus Id LLC,Fashion & Lifestyle,"watch, clock, and jewelry repair shops",23909.61,24809.2,769.63,708834.19,0.035,0.00109,likely,6236.0,0.27858
+87,15,63817709749,A Felis Ullamcorper Industries,"Arts, Media & Services","books, periodicals, and newspapers",22845.04,24208.75,1141.64,550198.84,0.044,0.00207,likely,1087.0,0.04512
+88,24,18158387243,Nec Tellus Ltd,Fashion & Lifestyle,health and beauty spas,22451.7,26750.22,4113.09,1317744.62,0.0203,0.00312,likely,2483.0,0.10659
+89,16,92065881715,Quam Elementum Corp.,"Arts, Media & Services","opticians, optical goods, and eyeglasses",22393.92,23309.18,742.06,554980.49,0.042,0.00134,likely,1317.0,0.05754
+90,25,71528203369,Ipsum Primis Associates,Fashion & Lifestyle,"watch, clock, and jewelry repair shops",21566.6,22082.6,382.91,318193.15,0.0694,0.0012,likely,4658.0,0.20895
+91,4,50315283629,Iaculis Aliquet Diam LLC,Home & Living,"lawn and garden supply outlets, including nurseries",21228.4,23191.4,1790.22,1317693.17,0.0176,0.00136,likely,4326.0,0.18991
+92,26,89022158521,Sollicitudin Adipiscing Ltd,Fashion & Lifestyle,"hobby, toy and game shops",21070.73,45710.51,24272.16,1036519.41,0.0441,0.02342,likely,1353.0,0.05867
+93,,78073971498,Venenatis A Industries,Other,artist supply and craft shops,20198.77,21223.48,853.31,318193.15,0.0667,0.00268,likely,879.0,0.03932
+94,5,98518649381,Nullam Scelerisque Neque Corp.,Home & Living,"lawn and garden supply outlets, including nurseries",19325.73,43427.54,23538.24,707288.89,0.0614,0.03328,likely,598.0,0.0236
+95,22,45244796758,Vitae Dolor LLP,Electronics & Digital,"computer programming , data processing, and integrated systems design services",18955.97,19531.07,422.81,318095.67,0.0614,0.00133,edge,1451.0,0.05978
+96,16,79633007926,Auctor Vitae Inc.,Automotive & Outdoor,bicycle shops - sales and service,18038.48,18529.47,377.11,442230.89,0.0419,0.00085,edge,2804.0,0.12374
+97,27,80324045558,Ipsum Dolor Sit Corporation,Fashion & Lifestyle,"gift, card, novelty, and souvenir shops",17853.36,19316.84,1389.48,1314070.67,0.0147,0.00106,edge,17659.0,0.8079
+98,28,53126107676,Sed Neque Corporation,Fashion & Lifestyle,"florists supplies, nursery stock, and flowers",17651.4,18573.7,790.86,442230.89,0.042,0.00179,edge,1125.0,0.0417
+99,23,15560455575,Morbi Accumsan Laoreet Industries,Electronics & Digital,"digital goods: books, movies, music",17585.78,18043.02,366.2,442230.89,0.0408,0.00083,edge,4244.0,0.18238
+100,29,38012560280,In Tempus Associates,Fashion & Lifestyle,"florists supplies, nursery stock, and flowers",17572.54,18036.02,319.72,318095.67,0.0567,0.00101,edge,1347.0,0.06679
